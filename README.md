@@ -1,3 +1,4 @@
 <div id="header" align="center">
-  <img src="https://devtechnosys.com/insights/wp-content/uploads/2023/01/scala-programming-language-gif.gif" width="100"/>
+  <img src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="270" />
 </div>
+
